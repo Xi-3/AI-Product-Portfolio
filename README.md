@@ -43,6 +43,7 @@
   <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/80381f948708352eae48f7567073b672.png?raw=true" width="49%">
   <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/4b98b00b9bc7b4c278f049e118ab5c8a.png?raw=true" width="49%">
 </p>
+
 ⚙️ 商业监控逻辑：
 
 * 双通道低延迟传输：视频帧流媒体 (MJPEG) 与结构化检测数据 (WebSocket) 分离传输，保障弱网环境下的前端大屏秒级响应。
