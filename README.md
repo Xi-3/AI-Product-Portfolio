@@ -17,16 +17,18 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/86bb1ccd99fe6031a5bc3edba9519164.png?raw=true" alt="问诊界面1"></td>
-    <td width="50%"><img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/c553d36af14670803abab31e0555a352.png?raw=true" alt="问诊界面2"></td>
+    <td width="50%"><img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/86bb1ccd99fe6031a5bc3edba9519164.png?raw=true" alt="问诊界面1"></td>
+    <td width="50%"><img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/c553d36af14670803abab31e0555a352.png?raw=true" alt="问诊界面2"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/33328754242c3da24dff980a0b4c5fc6.png?raw=true" alt="问诊界面3"></td>
-    <td><img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/0176029f708d7b72e0e75b1b4f59e509.png?raw=true" alt="问诊界面4"></td>
+    <td><img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/33328754242c3da24dff980a0b4c5fc6.png?raw=true" alt="问诊界面3"></td>
+    <td><img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/0176029f708d7b72e0e75b1b4f59e509.png?raw=true" alt="问诊界面4"></td>
   </tr>
 </table>
 ⚙️ 底层技术逻辑：
+
 * 轻量级 RAG 检索：在本地知识库中，基于 TF-IDF 与余弦相似度精准检索相关的症状、防治和用药条目。
+
 * Context 注入机制：将检索结果拼接为上下文注入 Prompt，再调用 OpenAI 兼容大模型生成高准确率的诊断建议，有效控制幻觉并保证来源可追溯。
 
 ---
@@ -38,11 +40,13 @@
 **💡 产品方案**：从业务场景出发，主导视觉模型推理部署与前端监控打通，构建“识别-预警-推送”的完整物联网数据流。
 
 <p align="center">
-  <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/80381f948708352eae48f7567073b672.png?raw=true" width="49%">
-  <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/4b98b00b9bc7b4c278f049e118ab5c8a.png?raw=true" width="49%">
+  <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/80381f948708352eae48f7567073b672.png?raw=true" width="49%">
+  <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/4b98b00b9bc7b4c278f049e118ab5c8a.png?raw=true" width="49%">
 </p>
 ⚙️ 商业监控逻辑：
+
 * 双通道低延迟传输：视频帧流媒体 (MJPEG) 与结构化检测数据 (WebSocket) 分离传输，保障弱网环境下的前端大屏秒级响应。
+
 * 数据驱动分级预警：按 YOLOv8 实时识别的病害数量设定 Normal/Warning/Danger 阈值，并结合温湿度传感器数据辅助多维度的决策干预。
 
 ---
@@ -55,7 +59,7 @@
 **🎯 运营目标**：在零投放预算下，利用数据驱动与 AI 工具验证高 ROI 的内容转化模型，实现自然流量破局。
 
 <p align="center">
-  <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/e87565fba9cccc9bc9acca96f579c597.jpg?raw=true" width="400">
+  <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/e87565fba9cccc9bc9acca96f579c597.jpg?raw=true" width="400">
 </p>
 *（图：通过 A/B 测试动态优化前 3 秒完播率跑通的 2.9W+ 播放量单条爆款实操）*
 
