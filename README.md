@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/80381f948708352eae48f7567073b672.png?raw=true" width="49%">
-  <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/4b98b00b9bc7b4c278f049e118ab5c8a.png?raw=true" width="49%">
+  <img src="https://github.com/Xi-3/AI-Product-Portfolio/blob/main/images/cv.png?raw=true" width="49%">
 </p>
 
 ⚙️ 商业监控逻辑：
