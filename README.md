@@ -3,7 +3,15 @@
 > 懂底层算法逻辑的 AI 产品与增长运营。具备扎实的数据科学背景，熟练运用 Claude Code、Open Claw 等 AI 原生编程工具，致力于打造并运营有商业价值的 AI 产品生态。
 📫 **联系方式**: `18086980322` | 📧 `937009202@qq.com`
 ### 🛠️ 核心武器库
-`RAG 架构` `YOLOv8` `Python 全栈` `OpenClaw` `Claude Code` `数据驱动增长`
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/LLM_API-OpenAI_Compatible-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Vector_Search-FF9900?style=flat-square" />
+  <img src="https://img.shields.io/badge/Growth-A/B_Testing-E34F26?style=flat-square" />
+</p>
 
 
 ## 🤖 核心项目：AI 商业化与研发落地
