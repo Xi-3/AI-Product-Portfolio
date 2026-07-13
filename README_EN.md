@@ -64,7 +64,7 @@
 ## 📈 Growth Hacking: AI-Empowered Social Media Matrix
 
 ### 📱 0-to-1 Account Incubation & Monetization Strategy
-**Operational Period**: 2024.04 - 2025.05 | **Independently Managed**
+**Operational Period**: 2025.02 - 2025.05 | **Independently Managed**
 
 **🎯 Objective**: To crack the cold-start algorithm and drive massive organic traffic with zero ad budget by utilizing data-driven insights and AI workflows.
 
@@ -76,6 +76,6 @@
 **💡 Growth Strategy & AI Efficiency:**
 * **AI-Reconstructed Workflows**: Proficiently leveraged LLMs and AI tools to deconstruct competitor data, batch-generate viral video scripts (incorporating localized slang and emotional hooks), and automate distribution, drastically shortening the idea-to-monetization cycle.
 * **Algorithm Hacking & A/B Testing**: Deeply analyzed recommendation algorithms to conduct robust A/B testing, dynamically optimizing the first 3 seconds (Hook) and Call-to-Action (CTA) structures.
-* **Core Milestones**: Generated over **170,000+** total organic impressions, with a single viral video peaking at **29,000+** views, accumulating **200+** deep, high-value user interactions (likes/comments).
+* **Core Milestones**: Generated over **150,000+** total organic impressions, with a single viral video peaking at **29,000+** views, accumulating **200+** deep, high-value user interactions (likes/comments).
 
 👉 **[Click to view: Overseas & Domestic AIGC Viral Short-Video Prompt Framework ↗](./prompts/Douyin_Viral_Script_Generator.md)**
